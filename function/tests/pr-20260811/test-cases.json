@@ -1,0 +1,232 @@
+[
+  {
+    "id": "tc01",
+    "title": "决策看板周报Tab渲染",
+    "dimension": "01_页面元素冒烟"
+  },
+  {
+    "id": "tc02",
+    "title": "周报列表页可访问",
+    "dimension": "01_页面元素冒烟"
+  },
+  {
+    "id": "tc03",
+    "title": "8张指标卡渲染",
+    "dimension": "01_页面元素冒烟"
+  },
+  {
+    "id": "tc04",
+    "title": "分析区块渲染",
+    "dimension": "01_页面元素冒烟"
+  },
+  {
+    "id": "tc05",
+    "title": "明细区块折叠展开",
+    "dimension": "02_页面交互"
+  },
+  {
+    "id": "tc06",
+    "title": "内联展开详情不移出列表",
+    "dimension": "02_页面交互"
+  },
+  {
+    "id": "tc07",
+    "title": "筛选器交互",
+    "dimension": "03_控件表单"
+  },
+  {
+    "id": "tc08",
+    "title": "管理层视图合计行",
+    "dimension": "01_页面元素冒烟"
+  },
+  {
+    "id": "tc09",
+    "title": "销售视图不含合计行和团队对比",
+    "dimension": "02_页面交互"
+  },
+  {
+    "id": "tc10",
+    "title": "团队交叉对比面板",
+    "dimension": "02_页面交互"
+  },
+  {
+    "id": "tc11",
+    "title": "销售确认流程",
+    "dimension": "04_业务流程"
+  },
+  {
+    "id": "tc12",
+    "title": "销售审核修改流程",
+    "dimension": "04_业务流程"
+  },
+  {
+    "id": "tc13",
+    "title": "仅pending可标记已阅",
+    "dimension": "08_规则回归"
+  },
+  {
+    "id": "tc14",
+    "title": "销售不可标记已阅",
+    "dimension": "05_权限鉴权"
+  },
+  {
+    "id": "tc15",
+    "title": "销售仅见本人周报",
+    "dimension": "05_权限鉴权"
+  },
+  {
+    "id": "tc16",
+    "title": "空态占位",
+    "dimension": "06_异常处理"
+  },
+  {
+    "id": "tc17",
+    "title": "风险分层徽章",
+    "dimension": "08_规则回归"
+  },
+  {
+    "id": "tc18",
+    "title": "评论含关联引用",
+    "dimension": "03_控件表单"
+  },
+  {
+    "id": "tc19",
+    "title": "AI原始生成折叠区仅confirmed-edited显示",
+    "dimension": "02_页面交互"
+  },
+  {
+    "id": "tc20",
+    "title": "修订日志展示三类变更",
+    "dimension": "08_规则回归"
+  },
+  {
+    "id": "tc21",
+    "title": "明细为0的区块不渲染",
+    "dimension": "07_边界条件"
+  },
+  {
+    "id": "tc22",
+    "title": "销售默认全部周期,管理层默认当前周",
+    "dimension": "08_规则回归"
+  },
+  {
+    "id": "tc23",
+    "title": "指标卡显示上周对比",
+    "dimension": "08_规则回归"
+  },
+  {
+    "id": "tc24",
+    "title": "已有已阅记录按钮禁用",
+    "dimension": "08_规则回归"
+  },
+  {
+    "id": "tc25",
+    "title": "管理员可生成周报",
+    "dimension": "05_权限鉴权"
+  },
+  {
+    "id": "tc26",
+    "title": "管理员不可标记已阅",
+    "dimension": "05_权限鉴权"
+  },
+  {
+    "id": "tc27",
+    "title": "标记已阅一人一次去重",
+    "dimension": "08_规则回归"
+  },
+  {
+    "id": "tc28",
+    "title": "管道快照A/B/C分组渲染",
+    "dimension": "01_页面元素冒烟"
+  },
+  {
+    "id": "tc29",
+    "title": "审核弹窗三字段级联关联引用",
+    "dimension": "03_控件表单"
+  },
+  {
+    "id": "tc30",
+    "title": "AI原文恢复按钮仅管理层可见",
+    "dimension": "05_权限鉴权"
+  },
+  {
+    "id": "tc31",
+    "title": "指标卡上周对比值计算",
+    "dimension": "08_规则回归"
+  },
+  {
+    "id": "tc32",
+    "title": "列表风险列汇总标签",
+    "dimension": "02_页面交互"
+  },
+  {
+    "id": "tc33",
+    "title": "pipeline_snapshot异常滞留剥离",
+    "dimension": "08_规则回归"
+  },
+  {
+    "id": "tc34",
+    "title": "sales-leader/PSL/exec不可确认周报",
+    "dimension": "05_权限鉴权"
+  },
+  {
+    "id": "tc35",
+    "title": "售前主管PSL没有自己的周报",
+    "dimension": "05_权限鉴权"
+  },
+  {
+    "id": "tc36",
+    "title": "销售只能审核pending状态",
+    "dimension": "05_权限鉴权"
+  },
+  {
+    "id": "tc37",
+    "title": "管理员admin可确认周报",
+    "dimension": "05_权限鉴权"
+  },
+  {
+    "id": "tc38",
+    "title": "「查看全部周报→」入口可见",
+    "dimension": "02_页面交互"
+  },
+  {
+    "id": "tc39",
+    "title": "auto(系统代确认)状态展示",
+    "dimension": "08_规则回归"
+  },
+  {
+    "id": "tc40",
+    "title": "auto→confirmed-edited管理层审核修改",
+    "dimension": "08_规则回归"
+  },
+  {
+    "id": "tc41",
+    "title": "confirmed-edited可再次审核修改",
+    "dimension": "08_规则回归"
+  },
+  {
+    "id": "tc42",
+    "title": "导出/复制按钮可见性",
+    "dimension": "02_页面交互"
+  },
+  {
+    "id": "tc43",
+    "title": "通知推送验证",
+    "dimension": "08_规则回归"
+  },
+  {
+    "id": "tc44",
+    "title": "管理层查看已确认周报后可审核修改",
+    "dimension": "08_规则回归"
+  },
+  {
+    "id": "tc45",
+    "title": "管道快照数据渲染准确性",
+    "dimension": "08_规则回归"
+  },
+  {
+    "id": "tc46",
+    "title": "明细区块完整展开—跟进清单/推进/新增/回退/成交/失单/逾期",
+    "dimension": "03_控件表单"
+  }
+]
