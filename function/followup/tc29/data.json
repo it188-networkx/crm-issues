@@ -1,0 +1,15 @@
+{
+  "test_data": {
+    "fields": [
+      "跟进要点",
+      "客户IT环境",
+      "客户痛点",
+      "客户需求",
+      "决策链观察"
+    ]
+  },
+  "dimension": "04_业务流程",
+  "assertions": {
+    "content_required_visible": true
+  }
+}

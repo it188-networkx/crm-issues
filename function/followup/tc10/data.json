@@ -1,0 +1,15 @@
+{
+  "test_data": {
+    "keywords": [
+      "跟进要点",
+      "客户IT环境",
+      "客户痛点",
+      "客户需求",
+      "决策链观察"
+    ]
+  },
+  "dimension": "01_页面元素冒烟",
+  "assertions": {
+    "deep_info_visible": true
+  }
+}

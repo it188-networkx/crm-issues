@@ -1,0 +1,14 @@
+{
+  "test_data": {
+    "modes": [
+      "语音录入",
+      "录音导入",
+      "粘贴文本",
+      "完整表单"
+    ]
+  },
+  "dimension": "02_页面交互",
+  "assertions": {
+    "four_entry_modes_visible": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "test_data": {
+    "filters": [
+      "全部时段",
+      "触达方式",
+      "阶段变更"
+    ]
+  },
+  "dimension": "03_控件表单",
+  "assertions": {
+    "filters_visible": true,
+    "data_rows_gt_0": true
+  }
+}

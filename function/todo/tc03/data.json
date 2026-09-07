@@ -1,0 +1,14 @@
+{
+  "test_data": {
+    "filters": [
+      "全部状态",
+      "全部优先级",
+      "全部来源"
+    ]
+  },
+  "dimension": "03_控件表单",
+  "assertions": {
+    "filters_visible": true,
+    "data_rows_gt_0": true
+  }
+}

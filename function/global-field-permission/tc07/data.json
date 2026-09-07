@@ -1,0 +1,9 @@
+{
+  "test_data": {
+    "role": "sales"
+  },
+  "dimension": "05_权限鉴权",
+  "assertions": {
+    "data_scope_dimension_visible": true
+  }
+}

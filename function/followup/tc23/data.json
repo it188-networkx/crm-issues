@@ -1,0 +1,15 @@
+{
+  "test_data": {
+    "reasons": [
+      "竞对中标",
+      "预算取消",
+      "项目终止",
+      "客户流失",
+      "其他"
+    ]
+  },
+  "dimension": "08_规则回归",
+  "assertions": {
+    "lost_reasons_visible": true
+  }
+}

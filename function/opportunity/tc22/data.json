@@ -1,0 +1,15 @@
+{
+  "test_data": {
+    "headers": [
+      "关联商机",
+      "产品",
+      "审批状态",
+      "开通状态",
+      "申请人"
+    ]
+  },
+  "dimension": "01_页面元素冒烟",
+  "assertions": {
+    "poc_list_visible": true
+  }
+}

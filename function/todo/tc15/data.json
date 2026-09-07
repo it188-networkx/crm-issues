@@ -1,0 +1,7 @@
+{
+  "test_data": {},
+  "dimension": "01_页面元素冒烟",
+  "assertions": {
+    "team_owner_column_visible": true
+  }
+}

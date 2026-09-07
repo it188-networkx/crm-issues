@@ -1,0 +1,13 @@
+{
+  "test_data": {
+    "required_fields": [
+      "商机名称",
+      "关联客户"
+    ]
+  },
+  "dimension": "02_页面交互",
+  "assertions": {
+    "create_modal_visible": true,
+    "required_fields_present": true
+  }
+}

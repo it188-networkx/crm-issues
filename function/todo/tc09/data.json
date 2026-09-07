@@ -1,0 +1,14 @@
+{
+  "test_data": {
+    "status": [
+      "待办",
+      "进行中",
+      "已完成",
+      "已取消"
+    ]
+  },
+  "dimension": "08_规则回归",
+  "assertions": {
+    "status_badge_visible": true
+  }
+}

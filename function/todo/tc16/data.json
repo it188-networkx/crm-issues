@@ -1,0 +1,12 @@
+{
+  "test_data": {
+    "types": [
+      "个人待办",
+      "共享待办"
+    ]
+  },
+  "dimension": "03_控件表单",
+  "assertions": {
+    "task_type_switch_visible": true
+  }
+}

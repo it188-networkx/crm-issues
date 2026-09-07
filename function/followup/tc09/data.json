@@ -1,0 +1,7 @@
+{
+  "test_data": {},
+  "dimension": "01_页面元素冒烟",
+  "assertions": {
+    "keyword_tags_visible": true
+  }
+}

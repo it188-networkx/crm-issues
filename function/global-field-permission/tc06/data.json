@@ -1,0 +1,9 @@
+{
+  "test_data": {
+    "role": "admin"
+  },
+  "dimension": "05_权限鉴权",
+  "assertions": {
+    "all_menus_visible": true
+  }
+}

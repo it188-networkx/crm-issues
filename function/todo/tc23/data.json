@@ -1,0 +1,7 @@
+{
+  "test_data": {},
+  "dimension": "08_规则回归",
+  "assertions": {
+    "overdue_today_visible": true
+  }
+}

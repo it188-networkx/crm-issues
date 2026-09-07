@@ -1,0 +1,19 @@
+{
+  "test_data": {
+    "roles": [
+      "sales"
+    ],
+    "allowed": [
+      "B级",
+      "C级"
+    ],
+    "denied": [
+      "S级",
+      "A级"
+    ]
+  },
+  "dimension": "05_权限鉴权",
+  "assertions": {
+    "sa_options_marked": true
+  }
+}

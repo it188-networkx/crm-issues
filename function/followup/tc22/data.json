@@ -1,0 +1,15 @@
+{
+  "test_data": {
+    "ops": [
+      "无阶段变更",
+      "推进阶段",
+      "回退阶段",
+      "标记成交",
+      "标记失单"
+    ]
+  },
+  "dimension": "04_业务流程",
+  "assertions": {
+    "stage_ops_visible": true
+  }
+}

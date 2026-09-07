@@ -1,0 +1,7 @@
+{
+  "test_data": {},
+  "dimension": "03_控件表单",
+  "assertions": {
+    "task_summary_required": true
+  }
+}

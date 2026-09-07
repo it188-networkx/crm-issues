@@ -1,0 +1,13 @@
+{
+  "test_data": {
+    "filters": [
+      "全部审批状态",
+      "全部开通状态",
+      "全部产品"
+    ]
+  },
+  "dimension": "03_控件表单",
+  "assertions": {
+    "poc_filters_visible": true
+  }
+}

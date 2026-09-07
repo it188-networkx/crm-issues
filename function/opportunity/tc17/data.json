@@ -1,0 +1,14 @@
+{
+  "test_data": {
+    "keywords": [
+      "技术分析",
+      "失单风险",
+      "推进差距",
+      "技术重点"
+    ]
+  },
+  "dimension": "01_页面元素冒烟",
+  "assertions": {
+    "tech_analysis_visible": true
+  }
+}

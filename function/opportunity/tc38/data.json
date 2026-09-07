@@ -1,0 +1,10 @@
+{
+  "test_data": {
+    "from": "方案设计",
+    "to": "POC测试"
+  },
+  "dimension": "04_业务流程",
+  "assertions": {
+    "advance_works": true
+  }
+}

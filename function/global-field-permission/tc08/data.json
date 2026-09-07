@@ -1,0 +1,9 @@
+{
+  "test_data": {
+    "role": "presales-leader"
+  },
+  "dimension": "05_权限鉴权",
+  "assertions": {
+    "readonly_observed": true
+  }
+}

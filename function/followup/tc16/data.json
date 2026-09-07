@@ -1,0 +1,14 @@
+{
+  "test_data": {
+    "task_types": [
+      "销售跟进",
+      "售前支持",
+      "协作跟进"
+    ]
+  },
+  "dimension": "02_页面交互",
+  "assertions": {
+    "next_actions_visible": true,
+    "manual_add_visible": true
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "test_data": {},
+  "dimension": "03_控件表单",
+  "assertions": {
+    "required_mark_visible": true
+  }
+}

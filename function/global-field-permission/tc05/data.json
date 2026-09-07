@@ -1,0 +1,10 @@
+{
+  "test_data": {
+    "role": "sales",
+    "absent": "决策看板"
+  },
+  "dimension": "05_权限鉴权",
+  "assertions": {
+    "menu_absent": true
+  }
+}

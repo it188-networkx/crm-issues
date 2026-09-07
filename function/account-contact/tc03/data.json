@@ -1,0 +1,14 @@
+{
+  "test_data": {
+    "filters": [
+      "行业",
+      "客户类型",
+      "状态"
+    ]
+  },
+  "dimension": "03_控件表单",
+  "assertions": {
+    "filters_visible": true,
+    "data_rows_gt_0": true
+  }
+}
