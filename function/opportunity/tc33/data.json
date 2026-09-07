@@ -1,0 +1,15 @@
+{
+  "test_data": {
+    "nodes": [
+      "提交申请",
+      "待审批",
+      "已通过",
+      "待开通",
+      "使用中"
+    ]
+  },
+  "dimension": "04_业务流程",
+  "assertions": {
+    "approval_flow_5_nodes": true
+  }
+}

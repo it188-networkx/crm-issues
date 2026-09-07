@@ -1,0 +1,12 @@
+{
+  "test_data": {
+    "rel_types": [
+      "商机",
+      "客户"
+    ]
+  },
+  "dimension": "03_控件表单",
+  "assertions": {
+    "shared_rel_cascade_works": true
+  }
+}

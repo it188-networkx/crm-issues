@@ -1,0 +1,9 @@
+{
+  "test_data": {
+    "page_title": "待办任务"
+  },
+  "dimension": "01_页面元素冒烟",
+  "assertions": {
+    "page_title_visible": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "test_data": {
+    "types": [
+      "客户",
+      "线索",
+      "商机"
+    ]
+  },
+  "dimension": "08_规则回归",
+  "assertions": {
+    "related_object_type_visible": true
+  }
+}

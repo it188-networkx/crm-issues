@@ -1,0 +1,17 @@
+{
+  "test_data": {
+    "headers": [
+      "任务",
+      "关联",
+      "类型",
+      "节点日期",
+      "优先级",
+      "状态",
+      "操作"
+    ]
+  },
+  "dimension": "01_页面元素冒烟",
+  "assertions": {
+    "all_headers_visible": true
+  }
+}

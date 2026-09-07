@@ -1,0 +1,13 @@
+{
+  "test_data": {
+    "fields": [
+      "归属来源",
+      "客户等级",
+      "细分赛道"
+    ]
+  },
+  "dimension": "01_页面元素冒烟",
+  "assertions": {
+    "business_info_visible": true
+  }
+}

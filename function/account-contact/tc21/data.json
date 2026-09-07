@@ -1,0 +1,14 @@
+{
+  "test_data": {
+    "fields": [
+      "企业简称",
+      "全称",
+      "行业",
+      "客户类型"
+    ]
+  },
+  "dimension": "04_业务流程",
+  "assertions": {
+    "account_create_fields_visible": true
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "test_data": {
+    "role": "sales"
+  },
+  "dimension": "04_业务流程",
+  "assertions": {
+    "mark_active_works": true
+  }
+}

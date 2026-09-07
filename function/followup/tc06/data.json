@@ -1,0 +1,15 @@
+{
+  "test_data": {
+    "sections": [
+      "基础信息",
+      "录音回放",
+      "AI 转写参考",
+      "跟进关键词",
+      "商机深度信息"
+    ]
+  },
+  "dimension": "01_页面元素冒烟",
+  "assertions": {
+    "all_sections_visible": true
+  }
+}

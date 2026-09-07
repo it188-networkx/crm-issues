@@ -1,0 +1,7 @@
+售前：dingfeng/admin123
+管理员：admin  admin1234
+销售： cuizhibo admin123
+销售主管： caizhengli admin123
+售前主管  zhangyi  admin123
+市场主管  shenjie  admin123
+CEO：landcai  admin123

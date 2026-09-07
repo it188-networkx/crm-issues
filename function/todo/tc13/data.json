@@ -1,0 +1,13 @@
+{
+  "test_data": {
+    "views": [
+      "我的待办任务",
+      "团队待办任务",
+      "协作商机任务"
+    ]
+  },
+  "dimension": "01_页面元素冒烟",
+  "assertions": {
+    "role_views_visible": true
+  }
+}

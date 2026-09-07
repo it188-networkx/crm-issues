@@ -1,0 +1,9 @@
+{
+  "test_data": {
+    "role": "presales-leader"
+  },
+  "dimension": "04_业务流程",
+  "assertions": {
+    "approve_works": true
+  }
+}

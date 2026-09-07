@@ -1,0 +1,12 @@
+{
+  "test_data": {
+    "fields": [
+      "推进至阶段",
+      "推进依据"
+    ]
+  },
+  "dimension": "02_页面交互",
+  "assertions": {
+    "advance_modal_visible": true
+  }
+}

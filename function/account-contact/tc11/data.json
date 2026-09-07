@@ -1,0 +1,14 @@
+{
+  "test_data": {
+    "fields": [
+      "姓名",
+      "职位",
+      "决策链角色",
+      "决策权重"
+    ]
+  },
+  "dimension": "02_页面交互",
+  "assertions": {
+    "contact_form_visible": true
+  }
+}

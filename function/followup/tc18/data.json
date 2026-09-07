@@ -1,0 +1,13 @@
+{
+  "test_data": {
+    "levels": [
+      "持续跟进",
+      "近期成交",
+      "长期培育"
+    ]
+  },
+  "dimension": "02_页面交互",
+  "assertions": {
+    "intent_judge_visible": true
+  }
+}

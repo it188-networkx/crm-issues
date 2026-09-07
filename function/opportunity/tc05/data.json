@@ -1,0 +1,16 @@
+{
+  "test_data": {
+    "sections": [
+      "阶段流转",
+      "阶段变更记录",
+      "跟进时间线",
+      "技术分析",
+      "基本信息",
+      "商务信息"
+    ]
+  },
+  "dimension": "01_页面元素冒烟",
+  "assertions": {
+    "all_sections_visible": true
+  }
+}

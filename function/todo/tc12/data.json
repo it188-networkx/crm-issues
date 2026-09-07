@@ -1,0 +1,13 @@
+{
+  "test_data": {
+    "fields": [
+      "任务标题",
+      "关联对象类型",
+      "优先级"
+    ]
+  },
+  "dimension": "03_控件表单",
+  "assertions": {
+    "create_fields_visible": true
+  }
+}

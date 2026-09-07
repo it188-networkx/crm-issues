@@ -1,0 +1,16 @@
+{
+  "test_data": {
+    "families": [
+      "ITOM",
+      "EXM",
+      "ITSM",
+      "ITAM",
+      "FSM"
+    ]
+  },
+  "dimension": "04_业务流程",
+  "assertions": {
+    "product_row_add_works": true,
+    "product_family_enum": true
+  }
+}

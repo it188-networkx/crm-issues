@@ -1,0 +1,13 @@
+{
+  "test_data": {
+    "buttons": [
+      "推进阶段",
+      "成交结案",
+      "失单结案"
+    ]
+  },
+  "dimension": "02_页面交互",
+  "assertions": {
+    "stage_actions_visible": true
+  }
+}

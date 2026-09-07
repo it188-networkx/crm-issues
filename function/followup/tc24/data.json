@@ -1,0 +1,9 @@
+{
+  "test_data": {
+    "role": "presales/psl"
+  },
+  "dimension": "01_页面元素冒烟",
+  "assertions": {
+    "presales_observation_visible": true
+  }
+}

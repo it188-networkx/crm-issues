@@ -1,0 +1,14 @@
+{
+  "test_data": {
+    "fields": [
+      "客户编码",
+      "企业名称",
+      "客户状态",
+      "客户类型"
+    ]
+  },
+  "dimension": "01_页面元素冒烟",
+  "assertions": {
+    "core_info_visible": true
+  }
+}

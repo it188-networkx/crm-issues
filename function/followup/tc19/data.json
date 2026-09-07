@@ -1,0 +1,13 @@
+{
+  "test_data": {
+    "types": [
+      "人工跟进",
+      "自动触达",
+      "渠道同步"
+    ]
+  },
+  "dimension": "08_规则回归",
+  "assertions": {
+    "create_type_visible": true
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "test_data": {
+    "filters": [
+      "全部阶段",
+      "项目属性",
+      "商机状态",
+      "负责销售",
+      "售前协同员",
+      "风险标签",
+      "重要等级",
+      "立项风险"
+    ]
+  },
+  "dimension": "03_控件表单",
+  "assertions": {
+    "filters_visible": true,
+    "data_rows_gt_0": true
+  }
+}

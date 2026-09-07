@@ -1,0 +1,17 @@
+{
+  "test_data": {
+    "methods": [
+      "电话",
+      "微信",
+      "邮件",
+      "现场拜访",
+      "视频会议",
+      "企业微信",
+      "其他"
+    ]
+  },
+  "dimension": "08_规则回归",
+  "assertions": {
+    "contact_method_visible": true
+  }
+}

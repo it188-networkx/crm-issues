@@ -1,0 +1,13 @@
+{
+  "test_data": {
+    "tabs": [
+      "基础信息",
+      "联系人",
+      "跟进时间线"
+    ]
+  },
+  "dimension": "01_页面元素冒烟",
+  "assertions": {
+    "three_tabs_visible": true
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "test_data": {
+    "fields": [
+      "下次计划日期",
+      "下步工作类型"
+    ]
+  },
+  "dimension": "01_页面元素冒烟",
+  "assertions": {
+    "next_action_plan_visible": true
+  }
+}
